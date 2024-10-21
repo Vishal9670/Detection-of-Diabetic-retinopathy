@@ -1,0 +1,8 @@
+## Dataset Placeholder
+
+The actual dataset used in this project is too large to upload to GitHub.
+
+To run the project:
+1. Download the **MESSIDOR-2** dataset from the [official source](https://www.adcis.net/en/third-party/messidor2/).
+2. Extract the dataset files into this folder (`data/`).
+3. Ensure that the dataset files are correctly named and organized as required by the code.
